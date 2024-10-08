@@ -1,0 +1,4 @@
+# Python example with variable and a loop
+count = 5
+for i in range (count) :
+    print(i)
